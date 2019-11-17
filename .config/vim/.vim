@@ -1,0 +1,1 @@
+/home/aglukhov/.config/vim
